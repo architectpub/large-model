@@ -1,4 +1,4 @@
-|     |     |     |     |     |     |     |     |     |     |     |
+
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Category  | component  | owner | Closed source or property | OSS License| Commercial use | modle size(B) | release date | code/paper | Star | Description |
 | Multi-Model | ImageBind | Meta |     | [License](https://github.com/facebookresearch/ImageBind/blob/main/LICENSE) | No  |     |     | [Github](https://github.com/facebookresearch/ImageBind) | 5.9k | ImageBind One Embedding Space to Bind Them All |
