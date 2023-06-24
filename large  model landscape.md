@@ -1,6 +1,6 @@
 |     |     |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 类别  | 组件  | 所有者 | 闭源或私有 | OSS 许可证 | 商业使用 | 模型大小(B) | 发布日期 | 代码/论文 | Star | Description |
+| Category  | component  | owner | Closed source or property | OSS License| Commercial use | modle size(B) | release date | code/paper | Star | Description |
 | Multi-Model | ImageBind | Meta |     | [License](https://github.com/facebookresearch/ImageBind/blob/main/LICENSE) | No  |     |     | [Github](https://github.com/facebookresearch/ImageBind) | 5.9k | ImageBind One Embedding Space to Bind Them All |
 | Image | DeepFloyd IF | [stability.ai](http://stability.ai/) |     | [License](https://github.com/deep-floyd/IF/blob/develop/LICENSE)<br><br>[Model license](https://github.com/deep-floyd/IF/blob/develop/LICENSE-MODEL) |     |     |     | [Github](https://github.com/deep-floyd/IF) | 6.4k | text-to-image model with a high degree of photorealism and language understanding |
 | Image | Stable Diffusion Version 2 | [stability.ai](http://stability.ai/) |     | MIT, unknown |     |     |     | [Github](https://github.com/Stability-AI/stablediffusion) | 23.5k | High-Resolution Image Synthesis with Latent Diffusion Models |
