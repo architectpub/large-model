@@ -1,9 +1,9 @@
 |     |     |     |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Caregory | Tech component | Owner | is<br><br>Proprietary or Closed source | OSS License | comml<br><br>use | Model Szie(B) | Release Date | EA  | Source/<br><br>Paper | Star | Description |
+| Caregory | Tech component | Owner | is<br><br>Proprietary or Closed source | OSS License | comml<br><br>use | Model Szie(B) | Release Date | AP  | Source/<br><br>Paper | Star | Description |
 | Multi-Model | ImageBind | Meta |     | [License](https://github.com/facebookresearch/ImageBind/blob/main/LICENSE) | No  |     |     |     | [Github](https://github.com/facebookresearch/ImageBind) | 5.9k | ImageBind One Embedding Space to Bind Them All |
-| Image | DeepFloyd IF | [stability.ai](http://stability.ai) |     | [License](https://github.com/deep-floyd/IF/blob/develop/LICENSE)<br><br>[Model license](https://github.com/deep-floyd/IF/blob/develop/LICENSE-MODEL) |     |     |     |     | [Github](https://github.com/deep-floyd/IF) | 6.4k | text-to-image model with a high degree of photorealism and language understanding |
-| Stable Diffusion Version 2 | [stability.ai](http://stability.ai) |     | MIT, unknown |     |     |     |     | [Github](https://github.com/Stability-AI/stablediffusion) | 23.5k | High-Resolution Image Synthesis with Latent Diffusion Models |
+| Image | DeepFloyd IF | [stability.ai](http://stability.ai/) |     | [License](https://github.com/deep-floyd/IF/blob/develop/LICENSE)<br><br>[Model license](https://github.com/deep-floyd/IF/blob/develop/LICENSE-MODEL) |     |     |     |     | [Github](https://github.com/deep-floyd/IF) | 6.4k | text-to-image model with a high degree of photorealism and language understanding |
+| Stable Diffusion Version 2 | [stability.ai](http://stability.ai/) |     | MIT, unknown |     |     |     |     | [Github](https://github.com/Stability-AI/stablediffusion) | 23.5k | High-Resolution Image Synthesis with Latent Diffusion Models |
 | DALL-E | OpenAI |     | Modified MIT | Yes |     |     |     | [Github](https://github.com/openai/DALL-E) | 10.3k | PyTorch package for the discrete VAE used for DALL·E. |
 | DALL·E 2 | OpenAI | Yes |     |     |     |     |     | [product](https://openai.com/product/dall-e-2) |     |     |
 | DALLE2-pytorch | lucidrains |     | MIT | Yes |     |     |     | [Github](https://github.com/lucidrains/DALLE2-pytorch) | 9.7k | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
@@ -36,7 +36,6 @@
 | [ERNIE 3.0 Titan](https://arxiv.org/abs/2112.12731v1) |     |     |     |     | 10  | July 2021 |     |     |     | ERNIE 3.0 Titan: Exploring Larger-scale Knowledge Enhanced Pre-training for Language Understanding and Generation |
 | [HyperCLOVA](https://arxiv.org/abs/2109.04650) |     |     |     |     | 82  | Sep 2021 |     |     |     | What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers |
 | FLAN |     |     |     |     | 137 | 2021/10/1 |     | [Paper](https://arxiv.org/abs/2109.01652) |     | Finetuned Language Models Are Zero-Shot Learners |
-|     |     |     |     |     |     |     |     |     |     |     |
 | GPT 3.5 | Azure | Yes |     |     |     |     |     |     |     |     |
 | GPT 4 | Azure | Yes |     |     |     | 2023/3/1 | R   |     |     |     |
 | ERNIE 3.0 | Baidu | Yes |     |     | 10  | 2021/7/1 |     | [Paper](https://arxiv.org/abs/2107.02137) |     |     |
@@ -53,7 +52,7 @@
 | [GPT-NeoX-20B](https://arxiv.org/abs/2204.06745v1) |     |     |     |     | 20  | April 2022 |     | [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b) |     | GPT-NeoX-20B: An Open-Source Autoregressive Language Model |
 | [Tk-Instruct](https://arxiv.org/abs/2204.07705v3) |     |     |     |     | 11  | April 2022 |     | [Tk-Instruct-11B](https://huggingface.co/allenai/tk-instruct-11b-def) |     | Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks |
 | PALM | Google | Yes |     |     | 540 | April 2022 |     |     |     | PaLM: Scaling Language Modeling with Pathways |
-| OPT | Meta | No  |     | Yes | 175 | May 2022 |     | [OPT-13B](https://huggingface.co/facebook/opt-13b),[OPT-66B](https://huggingface.co/facebook/opt-66b) ,[Paper](https://arxiv.org/abs/2205.01068) |     | OPT: Open Pre-trained Transformer Language Models |
+| OPT | Meta | No  |     | Yes | 175 | May 2022 |     | [OPT-13B](https://huggingface.co/facebook/opt-13b), [OPT-66B](https://huggingface.co/facebook/opt-66b) ,[Paper](https://arxiv.org/abs/2205.01068) |     | OPT: Open Pre-trained Transformer Language Models |
 | [OPT-IML](https://arxiv.org/abs/2212.12017v3) |     |     |     |     | 30, 175 | Dec 2022 |     | [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML#pretrained-model-weights) |     | OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization |
 | [GLM-130B](https://arxiv.org/abs/2210.02414v1) |     |     |     |     | 130 | Oct 2022 |     | [GLM-130B](https://github.com/THUDM/GLM-130B) |     | GLM-130B: An Open Bilingual Pre-trained Model |
 | [AlexaTM](https://arxiv.org/abs/2208.01448v2) |     |     |     |     | 20  | Aug 2022 |     |     |     | AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model |
@@ -82,8 +81,7 @@
 | [Gorilla](https://arxiv.org/abs/2305.15334v1) |     |     |     |     | 7   | 2023/5 |     | [Gorilla](https://github.com/ShishirPatil/gorilla) |     | Gorilla: Large Language Model Connected with Massive APIs |
 | [Med-PaLM 2](https://arxiv.org/abs/2305.09617v1) |     |     |     |     |     | 2023/5 |     |     |     | Towards Expert-Level Medical Question Answering with Large Language Models |
 | [PaLM 2](https://arxiv.org/abs/2305.10403) |     |     |     |     |     | 2023/5 |     |     |     | A Language Model that has better multilingual and reasoning capabilities and is more compute-efficient than its predecessor PaLM. |
-| [Falcon LLM](https://falconllm.tii.ae/) |     |     |     |     | 7, 40 | 2023/5 |     | [7B](https://huggingface.co/tiiuae),[40B](https://huggingface.co/tiiuae/falcon-40b) |     | foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens. |
-|     |     |     |     |     |     |     |     |     |     |     |
+| [Falcon LLM](https://falconllm.tii.ae/) |     |     |     |     | 7, 40 | 2023/5 |     | [7B](https://huggingface.co/tiiuae), [40B](https://huggingface.co/tiiuae/falcon-40b) |     | foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens. |
 | Claude | Anthropic | Yes |     |     |     |     |     |     |     |     |
 | GPT-Neo | Eleuthera AI | No  |     | Yes |     |     |     |     |     |     |
 | GPT-Neox | Eleuthera AI | No  |     | Yes | 20  | 2022/2/1 |     | [Paper](https://arxiv.org/abs/2204.06745) |     |     |
